@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**darkdrag00nv2/darkdrag00nv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer interested in Programming Languages & Blockchain.
 
-Here are some ideas to get you started:
+#### Projects
+I mainly aim to contribute to open source compiler/interpreter projects such as:
+- [Sigma](https://github.com/ScorexFoundation/sigmastate-interpreter/)
+- [Solang](https://github.com/hyperledger/solang/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also invest my time in building my own toy projects such as:
+- [ToyJS](https://github.com/darkdrag00nv2/toyjs)
+
+#### Skills
+- Compilers
+- Virtual Machines
+- Rust
+- Scala
