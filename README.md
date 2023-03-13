@@ -3,10 +3,8 @@
 I am a software engineer interested in Programming Languages & Blockchain.
 
 #### Projects
-I am primarily involved in the Ergo ecosystem through my contributions to the [Sigma](https://github.com/ScorexFoundation/sigmastate-interpreter/) project.
+I am primarily involved in the Ergo & Internet Computer ecosystems.
 
 #### Skills
-- Compilers
-- Virtual Machines
-- Rust
-- Scala
+- Compilers & Virtual Machines
+- Languages: Rust, Scala, Motoko
