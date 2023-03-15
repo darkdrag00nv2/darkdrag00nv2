@@ -7,4 +7,5 @@ I am primarily involved in the Ergo & Internet Computer ecosystems.
 
 #### Skills
 - Compilers & Virtual Machines
-- Languages: Rust, Scala, Motoko
+- Blockchain
+- Languages: C++, Rust, Scala, TypeScript, Motoko
