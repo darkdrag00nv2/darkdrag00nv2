@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-I am a software engineer interested in Programming Languages & Blockchain.
+I am a software engineer interested in Blockchains. I am primarily involved in the Ergo & Internet Computer ecosystems.
 
-#### Projects
-I am primarily involved in the Ergo & Internet Computer ecosystems.
+These days, I work with Rust, TypeScript and Scala. In the past, I've used C++ & Python as well.
 
-#### Skills
-- Compilers & Virtual Machines
-- Blockchain
-- Languages: C++, Rust, Scala, TypeScript, Motoko
+I am available for any remote & anon-friendly opportunities in Blockchain and Web3. Hit me up at darkdrag00n[@]proton.me
